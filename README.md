@@ -1,1 +1,1 @@
-# Projet Collectif : Réseau social PHP par Marine, Marjolène et Céline
+# Projet Collectif : Réseau social PHP par Marine, Marjolaine et Céline
